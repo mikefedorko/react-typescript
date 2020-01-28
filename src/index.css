@@ -38,3 +38,9 @@ code {
   padding: 1rem;
   background: #f2f2f2;
 }
+
+.page-footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
